@@ -185,11 +185,9 @@ From small experiments to full-stack applications, every project is an opportuni
 
 ## 🐍 Contribution Journey
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GusAdiHub/GusAdiHub/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GusAdiHub/GusAdiHub/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
