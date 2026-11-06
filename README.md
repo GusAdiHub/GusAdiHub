@@ -68,41 +68,40 @@ My approach is simple: use AI to accelerate development while staying involved i
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,java" />
 </p>
 
-### Web & Backend Development
+### Web Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,laravel,bootstrap" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,laravel" />
 </p>
 
 ### Mobile Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
-### Databases & Tools
+### Database & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode,linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode" />
 </p>
 
 ### AI-Assisted Development
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Vibe%20Coding-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Coding%20Agents-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-06B6D4?style=for-the-badge" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 
